@@ -1,0 +1,11 @@
+client_id,client_name,segment,country,risk_profile
+C001,NorthBridge Capital,Wealth Management,Canada,Medium
+C002,Maple Ridge Fund,Institutional,USA,High
+C003,Atlantic Growth Partners,Investment Management,UK,Medium
+C004,BlueRiver Family Office,Wealth Management,USA,Low
+C005,StoneGate Pension Trust,Institutional,Canada,High
+C006,Evergreen Alpha Fund,Investment Management,USA,Medium
+C007,Summit Private Wealth,Wealth Management,France,Low
+C008,HarborView Capital,Institutional,Germany,High
+C009,CedarRock Advisors,Wealth Management,Canada,Medium
+C010,IronPeak Asset Management,Investment Management,USA,High
