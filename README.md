@@ -187,6 +187,10 @@ This role is used by the Streamlit dashboard to simulate governed access to repo
 
 ## Streamlit Dashboard
 
+## Dashboard Preview
+
+![Financial Portfolio Risk Dashboard](docs/images/finance.png)
+
 The project includes a Streamlit dashboard connected to Snowflake.
 
 Dashboard file:
